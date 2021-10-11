@@ -1,0 +1,80 @@
+            Description: NVIDIA(R) nForce(TM) Audio
+ Default Sound Playback: Yes
+ Default Voice Playback:
+            Hardware ID: NFORCE_VAD
+        Manufacturer ID: 
+             Product ID: 100
+                   Type: WDM
+            Driver Name: nvapu.sys
+         Driver Version: 6.14.0462.0000 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: 
+          Date and Size: 4/13/2005 12:34:02, 414464 bytes
+            Other Files: 
+        Driver Provider: NVIDIA Corporation
+         HW Accel Level: Full
+              Cap Flags: 0xF5F
+    Min/Max Sample Rate: 200, 100000
+Static/Strm HW Mix Bufs: 
+ Static/Strm HW 3D Bufs: 48, 48
+              HW Memory: 
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: Yes, Yes
+   I3DL2(tm) Listen/Src: Yes, Yes
+Sensaura(tm) ZoomFX(tm): No
+               Registry: OK
+      Sound Test Result: Not run
+
+            Description: Bluetooth AV Audio
+ Default Sound Playback: No
+ Default Voice Playback: 
+            Hardware ID: {F12D3FF8-B11D-417e-8641-BE2072D6D204}\BLUELETAUDIO
+        Manufacturer ID: 
+             Product ID: 
+                   Type: WDM
+            Driver Name: blueletaudio.sys
+         Driver Version: 5.01.2600.1106 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: No
+          Date and Size: 6/23/2006 16:00:26, 31488 bytes
+            Other Files: 
+        Driver Provider: IVT Corporation
+         HW Accel Level: Full
+              Cap Flags: 0xB5B
+    Min/Max Sample Rate: 8000, 48000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: 
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+               Registry: OK
+      Sound Test Result: Not run
+
+            Description: Bluetooth SCO Audio
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: {F12D3CF8-B11D-457e-8541-BE2CF2D6F204}\BLUELETSCOAUDIO
+        Manufacturer ID: 65535
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: BlueletSCOAudio.sys
+         Driver Version: 5.01.2600.1106 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: 
+          Date and Size: 8/31/2005 10:34:52, 20480 bytes
+            Other Files: 
+        Driver Provider: IVT Corporation
+         HW Accel Level: Full
+              Cap Flags: 
+    Min/Max Sample Rate: 8000, 48000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: 
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): 
+               Registry: OK
+      Sound Test Result: Not run
